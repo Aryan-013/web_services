@@ -1,0 +1,23 @@
+h3{
+    text-align:center;
+    
+}
+h4
+{
+   color:aqua;
+}
+.navbar {
+  background :transparent !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+@media (max-width:767px)
+.navbar-brand
+{
+  .solote
+  {
+    display:none;
+  }
+}
